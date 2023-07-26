@@ -1,14 +1,46 @@
-[[short-id]]
-== Section/chapter title 
+[[priority2]]
+== Priority Area 2: Policy and Partnerships
 
-“Hast got it, Dummie?” said she, quickly, as she closed the door on the guest.
+*_Developing partnerships that benefit policy and society_*
 
-“Noa, noa! not exactly — but I thinks as ‘ow ⸺”
+=== Activity 2.1: Support implementation of the post-2020 Global Biodiversity Framework
 
-“Pish, you fool!” cried the woman, interrupting him, peevishly: “Vy, it is no use desaving of me. You knows you has only stepped from my boosing ken to another, and you has not been arter the book at all. So there’s the poor cretur a-raving and a-dying, and you ⸺”
+==== Projected outcomes for 2027
 
-“Let I speak!” interrupted Dummie in his turn. “I tells you I vent first to Mother Bussblone’s, who, I knows, chops the whiners morning and evening to the young ladies, and I axes there for a Bible, and she says, says she, ‘I ’as only a “Companion to the __H__alter!” but you’ll get a Bible, I think, at Master Talkins, — the cobbler — as preaches.’ So I goes to Master Talkins, and he says, says he, ‘I ’as no call for the Bible, ’cause vy, I ’as a call vithout; but mayhap you’ll be a-getting it at the butcher’s hover the vay — ’cause vy? — the butcher’ll be damned!’ So I goes hover the vay, and the butcher says, says he, ‘I ’as not a Bible, but I ’as a book of plays bound for all the vorld just like ’un, and mayhap the poor cretur mayn’t see the difference.’ So I takes the plays, Mrs. Margery, and here they be surely! — And how’s poor Judy?”
+-	GBIF-mediated data is consistently and transparently applied and cited across multiple indicators used to monitor progress towards the goals and targets agreed through the https://www.cbd.int/[UN Convention on Biological Diversity^] (CBD)
+-	GBIF is recognized as a key implementation partner for biodiversity-related projects supported by the https://www.thegef.org/[Global Environment Facility^] (GEF)
+-	GBIF-mediated data is fully integrated into national https://www.cbd.int/chm/[Clearing-House Mechanism^] (CHM) platforms as well as national reporting processes for the CBD
 
-“Fearsome! she’ll not be over the night; I’m a-thinking.”
+==== Indicative tasks for 2024
 
-“Vell, I’ll track up the dancers!”
+- Based on the recommendations of the CBD Ad Hoc Technical Expert Group on Indicators, work with partners to ensure that GBIF contributes efficiently and transparently to the finalized monitoring framework of the Kunming-Montreal Global Biodiversity Framework (GBF), especially with regard to headline indicators on invasive alien species (Target 6), business disclosures (Target 15) and availability of data, information and knowledge (Target 21)
+
+=== Activity 2.2: Support the 2030 Agenda for Sustainable Development
+
+==== Projected outcomes for 2027
+
+- GBIF’s value in supporting the https://www.un.org/sustainabledevelopment/[UN Sustainable Development Goals^] (SDGs) is recognized and reinforced through strategic partnerships with relevant international organizations focused on climate change, food security, human health and well-being, and both terrestrial and marine biodiversity
+- Relevance to multiple SDGs contributes to a broader funding base for GBIF both through project-based support and national contributions
+- National contributions and project-based support provide a broader funding base that increases GBIF’s relevance to the 2030 Agenda for Sustainable Development and SDGs
+
+==== Indicative tasks for 2024
+
+=== Activity 2.3: Support the science-policy interface
+
+==== Projected outcomes for 2027
+
+- GBIF’s role in providing data infrastructure essential to the work of the https://ipbes.net/[Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services^] (IPBES) is fully recognized and communicated
+-	GBIF’s use in policy and decision processes is enhanced through partnerships and better communicated
+
+==== Indicative tasks for 2024
+
+=== Activity 2.4: Support nature-positive outcomes from decisions in the business, financial and productive sectors
+
+==== Projected outcomes for 2027
+
+- Lending agreements prepared by financial institutions and public development banks include clear and unequivocal requirements for sharing biodiversity data
+- Private companies, trade associations and consultancies in all global regions recognize GBIF as the preferred platform to share primary biodiversity data gathered through impact assessments and monitoring
+
+==== Indicative tasks for 2024
+
+- Consolidate and develop the Data4Nature initiative 
