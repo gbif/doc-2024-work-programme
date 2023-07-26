@@ -8,50 +8,70 @@
 
 ==== Projected outcomes for 2027
 
-- The Secretariat, nodes and Heads of Delegation are equipped with robust materials to demonstrate GBIF’s value for money
-- Additional countries join or return to GBIF as Voting Participants
-- Additional funding agencies or foundations commit supplementary funds to support GBIF activities as part of the resource mobilisation strategy
+* The Secretariat, nodes and Heads of Delegation are equipped with robust materials to demonstrate GBIF’s value for money
+* Additional countries join or return to GBIF as Voting Participants
+* Additional funding agencies or foundations commit supplementary funds to support GBIF activities as part of the resource mobilization strategy
 
 ==== Indicative tasks for 2024
-- Revisit and revise 
-- …
+
+* Revisit and revise the GBIF Communications Strategy, taking into account significant developments and changes since the definition of key audiences and messages in the strategy published in 2015 
+* Refresh messaging and materials across GBIF communication platforms to reflect and update key components of GBIF’s value to the network’s Participants, publishers, partners and stakeholders, encompassing:
+** GBIF’s value to research and innovation, taking account of the priority thematic areas developed in <<priority1,Priority Area 1>>
+** GBIF’s role in supporting implementation and monitoring of the Kunming-Montreal Global Biodiversity Framework, as well as other biodiversity-related conventions
+** GBIF’s contribution to supporting the Sustainable Development Goals
+** The monetary value of GBIF to the global community as reflected in the 2023 economic valuation report
+** The specific value of GBIF national membership based on the services and opportunities exclusive to participating governments
+** GBIF’s position as a trail-blazing infrastructure in support of open data and open science, as reflected in the designation as a Global Core Biodata Resource, as well as an exemplar in the implementation of the UNESCO Open Science Recommendation
+** GBIF’s record in managing effective capacity enhancement programmes, with concrete achievements that can be demonstrated through mobilized data, citations in research and policy applications.
+* Prepare a second series of animated videos on additional areas of GBIF relevance aligned with priority thematic campaigns
+* Produce an annual report summarizing progress in 2023 toward implementing the new strategic framework
+* Building on analysis carried out for the GBIF economic valuation, capture and communicate the value of work carried out by GBIF volunteers (mentors, trainers, translators, ambassadors and other unpaid roles), including reports for national nodes and delegations on the value of uncharged work from volunteers in their country
+* Develop branding, launch and promote use of the ‘derived dataset’ tool to support and encourage more accurate citations and provide data publishers with more precise reporting on uses of their data in research and policy
 
 [[activity3-2]]
 === Activity 3.2: Support and strengthen GBIF nodes
 
 ==== Projected outcomes for 2027
 
-- GBIF nodes provide a strong and stable foundation for data mobilization and use through the network
-- The role of GBIF nodes as hubs for data mobilization and use is better understood and supported, especially at national level
+* GBIF nodes provide a strong and stable foundation for data mobilization and use through the network
+* The role of GBIF nodes as hubs for data mobilization and use is better understood and supported, especially at national level
 
 ==== Indicative tasks for 2024
 
-- Refine the Node Awards scheme based on lessons learned from its first implementation in 2023
-- …
+* Refine the Node Awards scheme based on lessons learned from its first implementation in 2023
+* Update guidance and support materials for nodes, including:
+** Adaptations to reflect the Participation and Engagement strategy developed in 2023
+** Further development of the nodes training curriculum building on the modules developed for the 2023 Global Nodes Training
+** Review and update the capacity self-assessment tool for Participant nodes as a companion to the nodes training curriculum 
+* Following its successful piloting in 2023, consolidate and improve ‘Technical Support Hour for Nodes’ as a forum for interaction and mutual training/problem solving] the Establish and improve the “Technical Support Hour for Nodes” as a forum for interaction and (mutual) training/problem solving
+* Develop repurposable materials for nodes to engage data holders aligning with the work on the diversified GBIF data model
+* In consultation with nodes, explore opportunities to enable secondments and work exchange within the GBIF network. 
+* In response to the recommendation of the GBIF economic valuation, develop a process for replicating the survey of national nodes for regular capture of information on the value of national investment in the GBIF network
 
 [[activity3-3]]
 === Activity 3.3: Expand and strengthen national participation
 
 ==== Projected outcomes for 2027
 
-- GBIF national participation is expanded across currently under-represented regions, G20 economies and megadiverse nations
-
-- Current Associate Participants have agreed pathways towards achieving or returning to voting participation
+* GBIF national participation is expanded across currently under-represented regions, G20 economies and megadiverse nations
+* Current Associate Participants have agreed pathways towards achieving or returning to voting participation
 
 ==== Indicative tasks for 2024
 
-- Based on feedback from the 2023 Global Nodes Meeting, consolidate the nodes onboarding programme, and scope possible onboarding actions for Heads of Delegation 
-- …
+* Based on feedback from the 2023 Global Nodes Meeting, consolidate the nodes onboarding programme, and scope possible onboarding actions for Heads of Delegation
+* Maintain and consolidate the regional support teams to complement and supplement the work of national nodes; and based on the 2023 Participation and Engagement strategy, scope development of regional-level node support through associate partners
+* Work with the regional support team for Europe and Central Asia to organize an in-person engagement event to strengthen participation in under-represented parts of the region (e.g. Central Asia, Caucasus, Balkans, Baltics)
 
 [[activity3-4]]
 === Activity 3.4: Develop capacity and skills
 
 ==== Projected outcomes for 2027
 
-- GBIF’s ongoing capacity support programmes are successfully concluded, and new support programmes are scoped
-- Additional training and guidance resouces are available to the community in multiple languages covering both data mobilization and data use
+* GBIF’s ongoing capacity support programmes are successfully concluded, and new support programmes are scoped
+* Additional training and guidance resouces are available to the community in multiple languages covering both data mobilization and data use
 
 ==== Indicative tasks for 2024
 
-- Launch a continuation of the Biodiversity Information for Development (BID) programme
-- …
+* Launch a continuation of the Biodiversity Information for Development (BID) programme, following finalization of contract procedures with EU International Partnerships (INTPA), and exploration of additional funding sources. Early action to include holding of regional meetings in target regions (ideally co-located with regional nodes meetings) to identify regional priorities and prepare calls for proposals
+* Carry out new assessment of the impact of the GBIF Capacity Enhancement Support Programme (CESP), develop recommendations for future improvements, including option to support engagement of non-participant countries as an allowable project type
+*	Update materials within GBIF training courses to capture recent progress relating to the diversifying of GBIF’s data model, adding new materials and use cases as appropriate
