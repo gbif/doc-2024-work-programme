@@ -1,0 +1,57 @@
+[[priority3]]
+== Priority Area 3: Community and Capacity
+
+*_Developing the GBIF network to meet future needs and challenges_*
+
+[[activity3-1]]
+=== Activity 3.1: Communicating the value of GBIF
+
+==== Projected outcomes for 2027
+
+- The Secretariat, nodes and Heads of Delegation are equipped with robust materials to demonstrate GBIF’s value for money
+- Additional countries join or return to GBIF as Voting Participants
+- Additional funding agencies or foundations commit supplementary funds to support GBIF activities as part of the resource mobilisation strategy
+
+==== Indicative tasks for 2024
+- Revisit and revise 
+- …
+
+[[activity3-2]]
+=== Activity 3.2: Support and strengthen GBIF nodes
+
+==== Projected outcomes for 2027
+
+- GBIF nodes provide a strong and stable foundation for data mobilization and use through the network
+- The role of GBIF nodes as hubs for data mobilization and use is better understood and supported, especially at national level
+
+==== Indicative tasks for 2024
+
+- Refine the Node Awards scheme based on lessons learned from its first implementation in 2023
+- …
+
+[[activity3-3]]
+=== Activity 3.3: Expand and strengthen national participation
+
+==== Projected outcomes for 2027
+
+- GBIF national participation is expanded across currently under-represented regions, G20 economies and megadiverse nations
+
+- Current Associate Participants have agreed pathways towards achieving or returning to voting participation
+
+==== Indicative tasks for 2024
+
+- Based on feedback from the 2023 Global Nodes Meeting, consolidate the nodes onboarding programme, and scope possible onboarding actions for Heads of Delegation 
+- …
+
+[[activity3-4]]
+=== Activity 3.4: Develop capacity and skills
+
+==== Projected outcomes for 2027
+
+- GBIF’s ongoing capacity support programmes are successfully concluded, and new support programmes are scoped
+- Additional training and guidance resouces are available to the community in multiple languages covering both data mobilization and data use
+
+==== Indicative tasks for 2024
+
+- Launch a continuation of the Biodiversity Information for Development (BID) programme
+- …
