@@ -8,6 +8,6 @@ https://builds.gbif.org/job/doc-template/lastBuild/console[image:https://builds.
 
 = GBIF 2024 Work Programme 
 
-Repository for the source of the document for the GBIF Work Programme 2023, developed under the https://doi.org/10.35035/doc-0kkq-0t82[2023–2027 Strategic Framework^].
+Repository for the source of the document for the GBIF Work Programme 2024, developed under the https://doi.org/10.35035/doc-0kkq-0t82[2023–2027 Strategic Framework^].
 
 The document is built using AsciiDoc, for guidance on how to make changes or suggestions see the https://docs.gbif.org/documentation-guidelines/[GBIF Documentation Guidelines^]. Outputs can be designed as needed, but generated HTML and PDF outputs are based on the compilation parameters defined in the file in this repository.
