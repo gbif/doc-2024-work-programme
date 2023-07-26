@@ -1,9 +1,9 @@
 [[priority1]]
-
 == Priority Area 1: Science and Research
 
 *_Improving biodiversity evidence for scientific research and understanding_*
 
+[[activity1-1]]
 === Activity 1.1: Drive mobilization and use of biodiversity data to support priority thematic areas of relevance
 
 ==== Projected outcomes for 2027
@@ -13,8 +13,10 @@
 
 ==== Indicative tasks for 2024
 
--	Commission an update to the systematic review of GBIF use in research, carried out by Mason Heberling in 2020. 
+-	Commission an update to the systematic review of GBIF use in research
+- …
 
+[[activity1-2]]
 === Activity 1.2: Advance GBIF’s contribution to latest biodiversity modelling approaches
 
 ==== Projected outcomes for 2027
@@ -24,3 +26,4 @@
 ==== Indicative tasks for 2024
 
 - Consolidate prototype ‘digital twins’
+- …
