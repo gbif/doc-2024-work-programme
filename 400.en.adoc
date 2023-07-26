@@ -1,0 +1,56 @@
+[[priority4]]
+== Priority Area 4: Infrastructure and data products
+
+*_Maintain and evolve infrastructure to advance biodiversity-related knowledge_*
+
+[[activity4-1]]
+=== Activity 4.1: Enhance robustness of the core GBIF infrastructure
+
+==== Projected outcomes for 2027
+
+- GBIF-maintained software and informatics infrastructure provides high, ongoing levels of availability and performance that keep pace with growth in data publication and use
+
+==== Indicative tasks for 2024
+
+- Retire the internal GBIF checklist database
+- …
+
+[[activity4-2]]
+=== Activity 4.2: Enhance support services for data publishers and users
+
+==== Projected outcomes for 2027
+
+- The expanding GBIF community of users are fully supported by a responsive help desk team and improved technical documentation
+- The taxonomic and collections communities benefit from improvements in GBIF support to the https://www.gbif.org/grscicoll[Global Registry of Scientific Collections^] (GRSciColl) and the Catalogue of Life
+
+==== Indicative tasks for 2024
+
+- Establish ticketing system to manage, prioritise and monitor help desk support
+- …
+
+[[activity4-3]]
+=== Activity 4.3: Enhance features and capabilities of the GBIF infrastructure
+
+==== Projected outcomes for 2027
+
+- Improved user interface to GBIF.org
+- Improved capabilities for GBIF to handle ecological, collections, and phylogenetic data
+- Data reuse increased through more stable GBIF identifiers
+
+==== Indicative tasks for 2024
+
+- Align interfaces, functionality and software used 
+- …
+
+[[activity4-4]]
+=== Activity 4.4: Drive data standards development
+
+==== Projected outcomes for 2027
+
+- The revised GBIF data model is matured and applicable for use
+- All controlled terms used in GBIF processing are managed in the vocabulary server
+
+==== Indicative tasks for 2024
+
+- Mature the unified data model
+- …
