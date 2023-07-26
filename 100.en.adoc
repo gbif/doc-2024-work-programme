@@ -13,10 +13,10 @@
 
 ==== Indicative tasks for 2024
 
-*	Commission an update to the systematic review of GBIF use in research, carried out in 2020. The intention of the new review will be identify trends in research uses for the 2020-2024 periods compared with 2016-2019, with deeper analysis of methods and analytical approaches, and thus inform future support for priority thematic areas of relevance.
+*	Commission an update to the systematic review of GBIF use in research, carried out in 2020. The intention of the new review will be identify trends in research uses for the period 2020-2024 compared with 2016-2019, with deeper analysis of methods and analytical approaches, and thus inform future support for priority thematic areas of relevance.
 * Following 2023 recommendations from the Science Committee, advance collaborative activities across new thematic areas of relevance, tentatively identified as invasive alien species and agrobiodiversity. Specific 2024 tasks to be determined in consultation with the Science Committee and identified experts in selected thematic areas
-* Expand data flows relating to vectors of human disease, in particular malaria-related data through GBIF partnership in the https://www.gatesfoundation.org/about/committed-grants/2022/04/inv021972[Vector Atlas^] project; and additional data streams on non-malaria vectors as recommended by the GBIF task group on vectors of human diseases.
 * Strengthen and expand support and guidance on mobilizing DNA-derived data through GBIF from a range of data holder types and scales. Includes quality improvements, improved coverage of DNA-detected organisms in the GBIF taxonomic backbone, aligning guidance with implementation of the diversified GBIF data model.
+* Expand data flows relating to vectors of human disease, in particular malaria-related data through GBIF partnership in the https://www.gatesfoundation.org/about/committed-grants/2022/04/inv021972[Vector Atlas^] project; and additional data streams on non-malaria vectors as recommended by the GBIF task group on vectors of human diseases.
 
 [[activity1-2]]
 === Activity 1.2: Advance GBIF’s contribution to latest biodiversity modelling approaches
@@ -27,7 +27,7 @@
 
 ==== Indicative tasks for 2024
 
-* Consolidate prototype ‘digital twins’ dependent on and coordinated by GBIF within the Horizon Europe BioDT project; support testing of prototype twins with user groups and links to key biodiversity data infrastructures; build cross-initiative and cross-project connections (as with the B3 project) though data and service co-dependencies.
+* Consolidate prototype ‘digital twins’ dependent on and coordinated by GBIF through partnering with the BioDT project; support testing of prototype twins with user groups and links to key biodiversity data infrastructures; build cross-initiative and cross-project connections (as with the B3 project) though data and service co-dependencies.
 * Improve GBIF’s capabilities to manage data streams from key ecological data infrastructures and monitoring programmes, through application of the diversified data model to accommodate richer data including absences based on complete species lists. Workshop planned for 2024 with key partners involved in the TDWG Humboldt Extension, to design data flows and outputs.
 
 NOTE: Based on the experience of 2023, it is proposed to discontinue Activity 1.3 (Support open science principles) as a separate activity within the Science and Research priority area. Significant progress has been made e.g. in the recognition of GBIF as a Global Core Biodata Resource, and inclusion of GBIF in the list of core data infrastructures supporting UNESCO open science recommendation. Follow-up of other tasks within this Activity, e.g. engagement with UNESCO/OECD and implementation of CARE principles, are redistributed to priority areas 2 and 3.
