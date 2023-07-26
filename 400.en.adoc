@@ -25,7 +25,7 @@
 
 ==== Indicative tasks for 2024
 
-- Establish ticketing system to manage, prioritise and monitor help desk support
+- Establish ticketing system to manage, prioritize and monitor help desk support
 - …
 
 [[activity4-3]]
