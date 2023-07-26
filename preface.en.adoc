@@ -1,24 +1,3 @@
-== Preface
+== Executive Secretary’s introduction to consultation draft
 
-// This section can contain not only a preface but other 'frontmatter' as well—particularly those called out in the AsciiDoctor user manual, including
-
-=== Epigraph
-
-[quote, Tacitus]
-mihi, quanto plura recentium seu veterum revolvo, tanto magis ludibria rerum mortalium cunctis in negotiis obversantur.
-
-=== Abstract
-
-The special guide to something blar de blar blar blar.
-
-=== Preface
-
-It was a dark and stormy night, the rain fell in torrents — except at occasional intervals, when it was checked by a violent gust of wind which swept up the streets (for it is in London that our scene lies), rattling along the house-tops, and fiercely agitating the scanty flame of the lamps that struggled against the darkness. Through one of the obscurest quarters of London, and among haunts little loved by the gentlemen of the police, a man evidently of the lowest orders was wending his solitary way.
-
-=== Acknowledgments
-
-This section may also be placed at the document’s end.
-
-=== Dedication
-
-Once again to Zelda
+The intention of this draft is to solicit feedback from the GBIF community to initial proposals from the Secretariat for the main Work Programme activities to be supported and prioritized during 2024. It should be read as an update to the 2023 Work Programme, and the second year of implementation of the strategic priorities set out in the 2023-2027 GBIF Strategic Framework.
