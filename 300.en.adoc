@@ -30,7 +30,7 @@ NOTE: The proposed change to Activity 3.1 (previously "Making the business case 
 * Capture and communicate the value of work carried out by GBIF volunteers (mentors, trainers, translators, ambassadors and other unpaid roles) and report to national nodes and delegations on the value of uncharged work from volunteers in their countries
 * Develop branding, launch and promote use of the ‘derived dataset’ tool to support and encourage more accurate citations and provide data publishers with more precise reporting on uses of their data in research and policy
 
-** **Expected funding mechanisms and sources**: 
+** **Expected funding mechanisms and sources**: salaried staff; external contracts; core funding.
 
 [[activity3-2]]
 === Activity 3.2: Support and strengthen GBIF nodes
@@ -52,6 +52,8 @@ NOTE: The proposed change to Activity 3.1 (previously "Making the business case 
 * In consultation with nodes, explore opportunities to enable secondments and work exchange within the GBIF network. 
 * In response to the recommendation of the GBIF economic valuation, develop a process for replicating the survey of national nodes for regular capture of information on the value of national investment in the GBIF network
 
+** **Expected funding mechanisms and sources**: salaried staff.
+
 [[activity3-3]]
 === Activity 3.3: Expand and strengthen national participation
 
@@ -66,6 +68,8 @@ NOTE: The proposed change to Activity 3.1 (previously "Making the business case 
 * Maintain and consolidate the regional support teams to complement and supplement the work of national nodes; and based on the 2023 Participation and Engagement strategy, scope development of regional-level node support through associate partners
 * Work with the regional support team for Europe and Central Asia to organize an in-person engagement event to strengthen participation in under-represented parts of the region (e.g. Central Asia, Caucasus, Balkans, Baltics)
 
+** **Expected funding mechanisms and sources**: salaried staff; external contracts; core funds; supplementary funding: https://www.gbif.org/country/NO/participation[Norway^] and https://www.gbif.org/country/FI/participation[Finland^] (Priority Area 3 SPF); https://international-partnerships.ec.europa.eu/index_en[European Commission Directorate-General for International Partnerships^] (BID).
+
 [[activity3-4]]
 === Activity 3.4: Develop capacity and skills
 
@@ -79,3 +83,5 @@ NOTE: The proposed change to Activity 3.1 (previously "Making the business case 
 * Launch a continuation of the Biodiversity Information for Development (BID) programme, following finalization of contract procedures with EU International Partnerships (INTPA), and exploration of additional funding sources. Early action to include holding of regional meetings in target regions (ideally co-located with regional nodes meetings) to identify regional priorities and prepare calls for proposals
 * Carry out new assessment of the impact of the GBIF Capacity Enhancement Support Programme (CESP), develop recommendations for future improvements, including option to support engagement of non-participant countries as an allowable project type
 *	Update materials within GBIF training courses to capture recent progress relating to the diversifying of GBIF’s data model, adding new materials and use cases as appropriate
+
+** **Expected funding mechanisms and sources**: salaried staff; external contracts; non-salary costs; core funding; https://international-partnerships.ec.europa.eu/index_en[European Commission Directorate-General for International Partnerships^] (BID).
