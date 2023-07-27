@@ -13,10 +13,12 @@
 
 ==== Indicative tasks for 2024
 
-*	Commission an update to the systematic review of GBIF use in research, carried out in 2020. The intention of the new review will be identify trends in research uses for the period 2020-2024 compared with 2016-2019, with deeper analysis of methods and analytical approaches, and thus inform future support for priority thematic areas of relevance.
-* Following 2023 recommendations from the Science Committee, advance collaborative activities across new thematic areas of relevance, tentatively identified as invasive alien species and agrobiodiversity. Specific 2024 tasks to be determined in consultation with the Science Committee and identified experts in selected thematic areas
-* Strengthen and expand support and guidance on mobilizing DNA-derived data through GBIF from a range of data holder types and scales. Includes quality improvements, improved coverage of DNA-detected organisms in the GBIF taxonomic backbone, aligning guidance with implementation of the diversified GBIF data model.
-* Expand data flows relating to vectors of human disease, in particular malaria-related data through GBIF partnership in the https://www.gatesfoundation.org/about/committed-grants/2022/04/inv021972[Vector Atlas^] project; and additional data streams on non-malaria vectors as recommended by the GBIF task group on vectors of human diseases.
+*	Commission an update to the systematic review of GBIF use in research (https://doi.org/10.1073/pnas.2018093118[Heberling et al. 2020^]) to identify trends in research uses for the 2020-2024 periods, deepen the analysis of methods and analytical approaches, and inform future support for priority thematic areas of relevance
+* Advance collaborative activities across new thematic areas of relevance based on recommendations from the Science Committee (currently identified as invasive alien species and agrobiodiversity) with support of identified experts in these areas
+* Expand data flows relating to vectors of human disease, in particular malaria-related data through GBIF partnership in the https://www.gatesfoundation.org/about/committed-grants/2022/04/inv021972[Vector Atlas^] project, with additional data streams on non-malaria vectors as recommended by the https://www.gbif.org/news/4jj1iKMn5llVnM6cUr8Y2m/[GBIF task group on vectors of human diseases^]
+* Strengthen and expand support and guidance on mobilizing DNA-derived data from a range of data holder types and scales, supported by data quality improvements, improved coverage of DNA-detected organisms in the GBIF taxonomic backbone, and alignment of guidance with the new GBIF data model
+
+_Expected funding sources_: Salaried staff, core funds for external contracts and non-salary expenses, supplementary funds, https://www.gatesfoundation.org/[Bill & Melinda Gates Foundation^] (for Vector Atlas)
 
 [[activity1-2]]
 === Activity 1.2: Advance GBIF’s contribution to latest biodiversity modelling approaches
