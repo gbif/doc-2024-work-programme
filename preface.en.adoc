@@ -1,4 +1,4 @@
-[[introduction]
+[[introduction]]
 == Introduction to consultation draft
 
 The intention of this draft is to solicit the GBIF community's feedback on initial proposals for the Work Programme activities that the Secretariat will support and prioritize during 2024. The resulting document should be read as an update to the https://doi.org/10.35035/doc-cvcq-rs47[2023 Work Programme^] and the second year of implementing the strategic priorities outlined in the https://doi.org/10.35035/doc-0kkq-0t82[2023-2027 GBIF Strategic Framework^].
