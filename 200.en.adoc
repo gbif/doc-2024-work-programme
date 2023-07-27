@@ -8,13 +8,13 @@
 
 ==== Projected outcomes for 2027
 
--	GBIF-mediated data is consistently and transparently applied and cited across multiple indicators used to monitor progress towards the goals and targets agreed through the https://www.cbd.int/[UN Convention on Biological Diversity^] (CBD)
--	GBIF is recognized as a key implementation partner for biodiversity-related projects supported by the https://www.thegef.org/[Global Environment Facility^] (GEF)
--	GBIF-mediated data is fully integrated into national https://www.cbd.int/chm/[Clearing-House Mechanism^] (CHM) platforms as well as national reporting processes for the CBD
+*	GBIF-mediated data is consistently and transparently applied and cited across multiple indicators used to monitor progress towards the goals and targets agreed through the https://www.cbd.int/[UN Convention on Biological Diversity^] (CBD)
+*	GBIF is recognized as a key implementation partner for biodiversity-related projects supported by the https://www.thegef.org/[Global Environment Facility^] (GEF)
+*	GBIF-mediated data is fully integrated into national https://www.cbd.int/chm/[Clearing-House Mechanism^] (CHM) platforms as well as national reporting processes for the CBD
 
 ==== Indicative tasks for 2024
 
-- Work with partners to ensure that GBIF contributes efficiently and transparently to the finalized monitoring framework of the https://www.cbd.int/doc/decisions/cop-15/cop-15-dec-04-en.pdf[Kunming-Montreal Global Biodiversity Framework^] (GBF), particularly headline indicators on invasive alien species (Target 6), business disclosures (Target 15) and availability of data, information and knowledge (Target 21)
+* Work with partners to ensure that GBIF contributes efficiently and transparently to the finalized monitoring framework of the https://www.cbd.int/doc/decisions/cop-15/cop-15-dec-04-en.pdf[Kunming-Montreal Global Biodiversity Framework^] (GBF), particularly headline indicators on invasive alien species (Target 6), business disclosures (Target 15) and availability of data, information and knowledge (Target 21)
 *	Explore the potential of “data cube” delivery formats from GBIF to support further development of biodiversity indicators at national, regional and global levels
 *	Implement the partnership agreement with https://www.geobon.org/[Group on Earth Observations Biodiversity Observation Network^] (GEO BON), including joint promotion at CBD meetings, development of guidance for alignment of nodes and Biodiversity Observation Networks, and application of the new data model to support standardized observations
 *	Support implementation of GBF Target 20 on capacity building and Target 21 on availability of data, information and knowledge through the [Biodiversity Information for Development^] (BID) programme, enhancing capacity in the mobilization and use of biodiversity data in developing countries (see <<activity3-4>>)
@@ -28,13 +28,13 @@
 
 ==== Projected outcomes for 2027
 
-- GBIF’s value in supporting the https://www.un.org/sustainabledevelopment/[UN Sustainable Development Goals^] (SDGs) is recognized and reinforced through strategic partnerships with relevant international organizations focused on climate change, food security, human health and well-being, and both terrestrial and marine biodiversity
-- Relevance to multiple SDGs contributes to a broader funding base for GBIF both through project-based support and national contributions
-- National contributions and project-based support provide a broader funding base that increases GBIF’s relevance to the 2030 Agenda for Sustainable Development and SDGs
+* GBIF’s value in supporting the https://www.un.org/sustainabledevelopment/[UN Sustainable Development Goals^] (SDGs) is recognized and reinforced through strategic partnerships with relevant international organizations focused on climate change, food security, human health and well-being, and both terrestrial and marine biodiversity
+* Relevance to multiple SDGs contributes to a broader funding base for GBIF both through project-based support and national contributions
+* National contributions and project-based support provide a broader funding base that increases GBIF’s relevance to the 2030 Agenda for Sustainable Development and SDGs
 
 ==== Indicative tasks for 2024
 
-- Consolidate formal partnerships with key agencies to support GBIF’s relevance to the SDGs, in particular with regard to human health, food security and climate change
+* Consolidate formal partnerships with key agencies to support GBIF’s relevance to the SDGs, in particular with regard to human health, food security and climate change
 -	Scope and commission an initial Environment, Social and Governance (ESG) report relating to GBIF’s operations policies, including but not restricted to gender/diversity guidelines, carbon and environmental footprints, and diversity and inclusion
 
 *** *Expected funding mechanisms and sources*: salaried staff; external contracts; non-salary expenses; core funds; possible supplementary funds.
@@ -44,8 +44,8 @@
 
 ==== Projected outcomes for 2027
 
-- GBIF’s role in providing data infrastructure essential to the work of the https://ipbes.net/[Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services^] (IPBES) is fully recognized and communicated
--	GBIF’s use in policy and decision processes is enhanced through partnerships and better communicated
+* GBIF’s role in providing data infrastructure essential to the work of the https://ipbes.net/[Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services^] (IPBES) is fully recognized and communicated
+* GBIF’s use in policy and decision processes is enhanced through partnerships and better communicated
 
 ==== Indicative tasks for 2024
 
@@ -56,9 +56,9 @@
 
 ==== Projected outcomes for 2027
 
-- Lending agreements prepared by financial institutions and public development banks include clear and unequivocal requirements for sharing biodiversity data
-- Private companies, trade associations and consultancies in all global regions recognize GBIF as the preferred platform to share primary biodiversity data gathered through impact assessments and monitoring
+* Lending agreements prepared by financial institutions and public development banks include clear and unequivocal requirements for sharing biodiversity data
+* Private companies, trade associations and consultancies in all global regions recognize GBIF as the preferred platform to share primary biodiversity data gathered through impact assessments and monitoring
 
 ==== Indicative tasks for 2024
 
-- Consolidate and develop the Data4Nature initiative 
+* Consolidate and develop the Data4Nature initiative 
