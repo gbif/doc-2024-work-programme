@@ -6,6 +6,8 @@
 [[activity3-1]]
 === Activity 3.1: Communicating the value of GBIF
 
+NOTE: The proposed change to Activity 3.1 (previously "Making the business case for GBIF"), consolidates the communication tasks needed to support activities across all Priority Areas under a single broader activity.
+
 ==== Projected outcomes for 2027
 
 * The Secretariat, nodes and Heads of Delegation are equipped with robust materials to demonstrate GBIF’s value for money
@@ -14,19 +16,21 @@
 
 ==== Indicative tasks for 2024
 
-* Revisit and revise the GBIF Communications Strategy, taking into account significant developments and changes since the definition of key audiences and messages in the strategy published in 2015 
-* Refresh messaging and materials across GBIF communication platforms to reflect and update key components of GBIF’s value to the network’s Participants, publishers, partners and stakeholders, encompassing:
-** GBIF’s value to research and innovation, taking account of the priority thematic areas developed in <<priority1,Priority Area 1>>
-** GBIF’s role in supporting implementation and monitoring of the Kunming-Montreal Global Biodiversity Framework, as well as other biodiversity-related conventions
-** GBIF’s contribution to supporting the Sustainable Development Goals
-** The monetary value of GBIF to the global community as reflected in the 2023 economic valuation report
-** The specific value of GBIF national membership based on the services and opportunities exclusive to participating governments
-** GBIF’s position as a trail-blazing infrastructure in support of open data and open science, as reflected in the designation as a Global Core Biodata Resource, as well as an exemplar in the implementation of the UNESCO Open Science Recommendation
-** GBIF’s record in managing effective capacity enhancement programmes, with concrete achievements that can be demonstrated through mobilized data, citations in research and policy applications.
+* Update the https://doi.org/10.15468/doc-6yp9-9885[GBIF Communications Strategy^], revising and revisiting key audiences and messages to account for changes and developments its publication in 2015
+* Refresh messaging and materials across GBIF communication platforms to reflect and update key components of GBIF’s value to the network’s Participants, publishers, partners and stakeholders, including:
+** GBIF’s value to science, research and innovation, particularly in the priority thematic areas identified under Activity 1.1
+** GBIF’s role in supporting implementation and monitoring of the GBF and other biodiversity-related conventions
+** GBIF’s contribution to supporting the SDGs
+** The financial value of GBIF to science and society
+** The specific value that GBIF membership provides through exclusive services and opportunities for participating governments
+** GBIF’s position as a data infrastructure and network that supports open data and open science
+** GBIF’s record in managing effective capacity enhancement programmes that produce concrete results in mobilizing data demonstrating onward use through research citations, and documenting policy applications
 * Prepare a second series of animated videos on additional areas of GBIF relevance aligned with priority thematic campaigns
-* Produce an annual report summarizing progress in 2023 toward implementing the new strategic framework
-* Building on analysis carried out for the GBIF economic valuation, capture and communicate the value of work carried out by GBIF volunteers (mentors, trainers, translators, ambassadors and other unpaid roles), including reports for national nodes and delegations on the value of uncharged work from volunteers in their country
+* Produce an annual report summarizing progress toward implementing the new strategic framework in 2023
+* Capture and communicate the value of work carried out by GBIF volunteers (mentors, trainers, translators, ambassadors and other unpaid roles) and report to national nodes and delegations on the value of uncharged work from volunteers in their countries
 * Develop branding, launch and promote use of the ‘derived dataset’ tool to support and encourage more accurate citations and provide data publishers with more precise reporting on uses of their data in research and policy
+
+** **Expected funding mechanisms and sources**: 
 
 [[activity3-2]]
 === Activity 3.2: Support and strengthen GBIF nodes
