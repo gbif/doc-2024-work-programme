@@ -11,18 +11,18 @@ In 2024 the Secretariat expects to receive 4.2M euro in income from Basic Financ
 
 The draft total Secretariat budget expenses total 5.9 M euros, with nearly 5M euros going towards the WP24 (Figure 1) and the rest for administration and governance. This includes Core and Supplemental Fund expenditures.
 
-[[figure-graph1]]
+[figure-graph1]
 .Expected Secretariat expenses for Work Programme and administration/governance
 image::img/wp-graphs-01.svg
 
 The draft WP24 budget includes expenses for staff salaries, external contractors, and non-salary expenses for meetings and travel.  This reflects expenditures from both Core Supplemental Funds. 50% more total WP activities are enabled by Supplemental Funds. Two-thrds of the WP24 expenses are staff salaries (<<Figure 2).
 
-[[figure-graph2]]
+[figure-graph2]
 .Expected breakdown of Work Programme expenses
 image::img/wp-graphs-02.svg
 
 All four Priority Area budgets include costs for staff salary, external contracts, and non-salary expenses such as meetings and travel. The largest expense in all Priority Areas is staff salary. The expected of WP expenses are highest for Priority Areas 2 and 3 (Figure3).
 
-[[figure-graph3]]
+[figure-graph3]
 .Work Programme 2024 expense breakdown across the four Priority Areas
 image::img/wp-graphs-03.svg
