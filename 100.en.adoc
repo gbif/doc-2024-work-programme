@@ -15,8 +15,8 @@
 
 *	Commission an update to the systematic review of GBIF use in research (https://doi.org/10.1073/pnas.2018093118[Heberling et al. 2020^]) to identify trends in research uses for the 2020-2024 periods, deepen the analysis of methods and analytical approaches, and inform future support for priority thematic areas of relevance
 * Advance collaborative activities across new thematic areas of relevance based on recommendations from the Science Committee (currently identified as invasive alien species and agrobiodiversity) with support of identified experts in these areas
-* Expand data flows relating to vectors of human disease, in particular malaria-related data through GBIF partnership in the https://www.gatesfoundation.org/about/committed-grants/2022/04/inv021972[Vector Atlas^] project, with additional data streams on non-malaria vectors as recommended by the https://www.gbif.org/news/4jj1iKMn5llVnM6cUr8Y2m/[GBIF task group on vectors of human diseases^]
 * Strengthen and expand support and guidance on mobilizing DNA-derived data from a range of data holder types and scales, supported by data quality improvements, improved coverage of DNA-detected organisms in the GBIF taxonomic backbone, and alignment of guidance with the new GBIF data model
+* Expand data flows relating to vectors of human disease, in particular malaria-related data through GBIF partnership in the https://www.gatesfoundation.org/about/committed-grants/2022/04/inv021972[Vector Atlas^] project, with additional data streams on non-malaria vectors as recommended by the https://www.gbif.org/news/4jj1iKMn5llVnM6cUr8Y2m/[GBIF task group on vectors of human diseases^]
 
 *** *Expected funding mechanisms and sources*: Salaried staff, core funds, external contracts, supplementary funds, non-salary expenses, and https://www.gatesfoundation.org/[Bill & Melinda Gates Foundation^] (Vector Atlas)
 
