@@ -1,3 +1,22 @@
 == Executive Secretary’s introduction to consultation draft
 
-The intention of this draft is to solicit feedback from the GBIF community to initial proposals from the Secretariat for the main Work Programme activities to be supported and prioritized during 2024. It should be read as an update to the 2023 Work Programme, and the second year of implementation of the strategic priorities set out in the 2023-2027 GBIF Strategic Framework.
+The intention of this draft is to solicit the GBIF community's feedback on initial proposals for the Work Programme activities that the Secretariat will support and prioritize during 2024. The resulting document should be read as an update to the https://doi.org/10.35035/doc-cvcq-rs47[2023 Work Programme^] and the second year of implementing the strategic priorities outlined in the https://doi.org/10.35035/doc-0kkq-0t82[2023-2027 GBIF Strategic Framework^].
+
+As described in the previous work programme, the approach of the implementation plan is to address the strategic priorities through several multi-year activities, each with projected outcomes over the five years. As this document is drafted just over halfway through the first year of implementation, the identification of tasks for 2024 is necessarily tentative and based on current projections for the progress of the indicative tasks agreed for 2023. 
+
+Through this consultion draft, we will gather responses on the specific new tasks, emphasising year-on-year continuity. Based on the feedback received, the Secretariat will consolidate this draft into the Work Programme presented to the Governing Board for approval at the https://gb30.gbif.org/[GB30^] meeting in October 2023.
+
+Please note that the final draft presented for approval at GB30 will also restore the list of ongoing tasks, which will not change greatly from 2023 (https://docs.gbif.org/2023-work-programme/en/#activity1-ongoing[example^]). 
+
+The draft does not set out detailed budget proposals for each activity and task, but it indicates which tasks are expected to be carried out primarily by salaried staff, and which through external contracts and/or non-salary expenses. For contracts and expenses, it further indicates whether costs would be met from core funds or from supplementary funds, identifying where possible the funding source.
+
+The <<budget,indicative budget for 2024>> highlights expected income and expenses from Basic Financial Contributions (or Core) and Supplementary Funds. It also provides estimated expenses for the work programme, administration/governance and each priority area.
+
+The Secretariat welcomes supplementary contributions from Participants to Special Purpose Funds (SPF) aligned to each Priority Area. SPFs enable Participants to make additional contributions above the expected national ones to prioritize efforts in specific activity areas  and accelerate progress toward meeting national goals in line with broader GBIF priorities in WP24. We encourage Participants to develop specific indicative tasks to fulfil goals supported through the SPFs. Areas of particular interest to the Secretariat in 2024 include additional funding for citation tracking, communications, node outreach, and many informatics and data quality projects.
+
+Finally, in a departure from the practice in the previous strategic planning period, we have decoupled the process of soliciting and publishing details of the activities of GBIF nodes from the Work Programme drafting and consultation process. We do not intend for this to weaken the connection between nodes plans and activities and the global Work Programme. On the contrary, we hope to strengthen the alignment by providing a more logical sequence and structure. Following approval of the annual global Work Programme by the Governing Board, we will invite nodes to submit plans aligned with WP24 for inclusion in the annual Nodes Strategy. Reports on the previous year will then provide an input into the activities detailed in the updated annual report. 
+
+I look forward to receiving your feedback to this draft, which will help us build on the momentum of 2023 and further advance GBIF’s progress towards the ambitious goals outlined in the Strategic Framework.
+
+*Joe Miller*
+Executive Secretary
