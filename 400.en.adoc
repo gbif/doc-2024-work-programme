@@ -40,7 +40,7 @@
 ** Revising the documentation on record-quality requirements, including occurrence id stability, and use of standardized values, including vocabularies
 ** Consolidating and expanding the technical documentation
 
-** *Expected funding mechanisms and sources*: salaried staff; external contracts; core funding; supplementary funds `including special purpose fund`
+** *Expected funding mechanisms and sources*: salaried staff; external contracts; core funding; supplementary funds `including special purpose fund`.
 
 [[activity4-3]]
 === Activity 4.3: Enhance features and capabilities of the GBIF infrastructure
@@ -65,7 +65,7 @@
 ** Maturing the workflows that ensure stable GBIF occurrence identifiers and improving communication about identified issues and solutions
 * Explore alternative platforms and methods for integrating and managing information from literature tracking
 
-** *Expected funding mechanisms and sources*: salaried staff; core funding; external contracts; supplementary funds: https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en[Horizon Europe^] (B-Cubed)
+** *Expected funding mechanisms and sources*: salaried staff; core funding; external contracts; supplementary funds: https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en[Horizon Europe^] (B-Cubed).
 
 [[activity4-4]]
 === Activity 4.4: Drive data standards development
@@ -77,7 +77,11 @@
 
 ==== Indicative tasks for 2024
 
-* Mature the unified data model
-* …
+* Mature the unified data model aiming to become a candidate standard within https://www.tdwg.org/[Biodiversity Information Standards^] (TDWG)
+* Refine and test data publishing models for specimen data with community members
+* Develop publishing models for monitoring data (abundance and absence) and structured events around targets to improve support of survey and monitoring data
+* Advance data models for interaction data
+* Encourage growth of the community of vocabulary editors accelerate the collection of community-curated vocabularies
+* Complete the migration of content and associated code to use the vocabulary-server for all controlled terms
 
-** *Expected funding mechanisms and sources*: 
+** *Expected funding mechanisms and sources*: salaried staff; core funding; external contract; supplementary funding.
