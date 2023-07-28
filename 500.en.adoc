@@ -9,19 +9,19 @@ The Secretariat welcomes contributions to the Special Purpose Funds (SPFs) align
 
 In 2024, the Secretariat expects to receive 4.2 million euros in income from basic financial contributions, mainly from Voting Participants, and will earn 1.7 million euros in supplementary funds.
 
-The expenses in the draft 2024 budget total 5.9 million euros, with nearly 5 million euros going towards Work Programme 2024 (Figure 1) and the remainder for administration and governance. This total includes both core and supplementary fund expenditures.
+The expenses in the draft 2024 budget total 5.9 million euros, with nearly 5 million euros going towards Work Programme 2024 (<<figure-graph1,Figure 1>>) and the remainder for administration and governance. This total includes both core and supplementary fund expenditures.
 
 [#figure-graph1]
 .Expected Secretariat expenses for Work Programme and Secretariat administration and governance
 image::img/wp-graphs-01.svg[]
 
-The draft 2024 budget includes expenses for staff salaries, external contractors, and non-salary expenses for meetings and travel. This total reflects expenditures from both core and supplementary funds. Supplementary funds enable 50 per cent more total WP activities. Two thirds of the 2024 expenses are staff salaries (<<figure-graph2>>).
+The draft 2024 budget includes expenses for staff salaries, external contractors, and non-salary expenses for meetings and travel. This total reflects expenditures from both core and supplementary funds. Supplementary funds enable 50 per cent more total WP activities. Two thirds of the 2024 expenses are staff salaries (<<figure-graph2,Figure 2>>).
 
 [#figure-graph2]
 .Expected breakdown of Work Programme expenses
 image::img/wp-graphs-02.svg[]
 
-All four Priority Area budgets include costs for staff salary, external contracts, and non-salary expenses such as meetings and travel. The largest expense in all Priority Areas is staff salary. The expected of WP expenses are highest for <<priority2,Priority Area 2>> and <<priority 3,Priority Area 3>> (<<figure-graph3,Figure 3>>).
+All four Priority Area budgets include costs for staff salary, external contracts, and non-salary expenses such as meetings and travel. The largest expense in all Priority Areas is staff salary. The expected of WP expenses are highest for <<priority2,Priority Area 2>> and <<priority 3,Priority Area 3>> (<<priority3,Priority Area 3>>) (<<figure-graph3,Figure 3>>).
 
 [#figure-graph3]
 .Work Programme 2024 expense breakdown across the four Priority Areas
