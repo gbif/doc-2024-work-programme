@@ -8,49 +8,76 @@
 
 ==== Projected outcomes for 2027
 
-- GBIF-maintained software and informatics infrastructure provides high, ongoing levels of availability and performance that keep pace with growth in data publication and use
+* GBIF-maintained software and informatics infrastructure provides high, ongoing levels of availability and performance that keep pace with growth in data publication and use
 
 ==== Indicative tasks for 2024
 
-- Retire the internal GBIF checklist database
-- …
+* Retire the internal GBIF checklist database replace it with https://www.checklistbank.org/[ChecklistBank^], and deploy corresponding updates to public GBIF APIs
+*	Maintain deployments of hosted portals and hosted data repositories (IPTs) 
+*	Maintain GBIF R (https://www.gbif.org/tool/81747/[rgbif^]) and Python (https://www.gbif.org/tool/OlyoYyRbKCSCkMKIi4oIT/[pygbif^]) libraries to follow changes in GBIF public interfaces and support outcomes, including eDNA engagement activities
+*	Mature deployment and operation of software on the Kubernetes technology platform 
+*	Review and test disaster recovery processes
+*	Plan capacity and hardware procurement to accommodate growth in volume and use of data 
+*	Provide environments for development and network-wide testing, particularly related to indexing under revised data standards
+
+** *Expected funding mechanisms and sources*: salaried staff; external contracts; core funding.
 
 [[activity4-2]]
 === Activity 4.2: Enhance support services for data publishers and users
 
 ==== Projected outcomes for 2027
 
-- The expanding GBIF community of users are fully supported by a responsive help desk team and improved technical documentation
-- The taxonomic and collections communities benefit from improvements in GBIF support to the https://www.gbif.org/grscicoll[Global Registry of Scientific Collections^] (GRSciColl) and the Catalogue of Life
+* The expanding GBIF community of users are fully supported by a responsive help desk team and improved technical documentation
+* The taxonomic and collections communities benefit from improvements in GBIF support to the https://www.gbif.org/grscicoll[Global Registry of Scientific Collections^] (GRSciColl) and the Catalogue of Life
 
 ==== Indicative tasks for 2024
 
-- Establish ticketing system to manage, prioritize and monitor help desk support
-- …
+* Establish ticketing system to manage, prioritize and monitor help desk support 
+* Replace the GBIF Backbone Taxonomy with the extended Catalogue of Life, produced using ChecklistBank
+* Support content curation on GRSciColl and coordinate editor and user communities as well as data import and synchronisation processes
+* Upgrade documentation by
+** Enhancing the understanding of data quality through consistent, accessible documentation of all related processes, tools and information products
+** Revising the documentation on record-quality requirements, including occurrence id stability, and use of standardized values, including vocabularies
+** Consolidating and expanding the technical documentation
+
+** *Expected funding mechanisms and sources*: salaried staff; external contracts; core funding; supplementary funds `including special purpose fund`
 
 [[activity4-3]]
 === Activity 4.3: Enhance features and capabilities of the GBIF infrastructure
 
 ==== Projected outcomes for 2027
 
-- Improved user interface to GBIF.org
-- Improved capabilities for GBIF to handle ecological, collections, and phylogenetic data
-- Data reuse increased through more stable GBIF identifiers
+* Improved user interface to GBIF.org
+* Improved capabilities for GBIF to handle ecological, collections, and phylogenetic data
+* Data reuse increased through more stable GBIF identifiers
 
 ==== Indicative tasks for 2024
 
-- Align interfaces, functionality and software used 
-- …
+* Align interfaces, functionality and software used in GBIF.org, hosted portals, the shared data pipeline project and the Living Atlases 
+* Improve ability for users to filter based on content types, including citizen science, eDNA and business sector
+* Advance capabilities for event-based search based on prototype co-developed with the Atlas of Living Australia, and explore support for the forthcoming Humboldt core extension
+* Implement a material catalogue to capture specimen information exposed in the new data model
+* Enrich GRSciColl through integration of collection description information, compatible with the Latimer Core schema, to support use cases, including priority-setting for data mobilization and digitization
+* Develop new data download formats that offer configurable summaries of occurrence data 
+* Improve data quality by:
+** Integrating basic data quality checks into the IPT and implementing emerging publishing models and changes to Darwin Core
+** Continuing to explore approaches to annotation capabilities in GBIF.org focused on taxonomic and geographic combinations to detect suspicious records, piloting rule-based issue documentation with selected volunteer communities
+** Maturing the workflows that ensure stable GBIF occurrence identifiers and improving communication about identified issues and solutions
+* Explore alternative platforms and methods for integrating and managing information from literature tracking
+
+** *Expected funding mechanisms and sources*: salaried staff; core funding; external contracts; supplementary funds: https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en[Horizon Europe^] (B-Cubed)
 
 [[activity4-4]]
 === Activity 4.4: Drive data standards development
 
 ==== Projected outcomes for 2027
 
-- The revised GBIF data model is matured and applicable for use
-- All controlled terms used in GBIF processing are managed in the vocabulary server
+* The revised GBIF data model is matured and applicable for use
+* All controlled terms used in GBIF processing are managed in the vocabulary server
 
 ==== Indicative tasks for 2024
 
-- Mature the unified data model
-- …
+* Mature the unified data model
+* …
+
+** *Expected funding mechanisms and sources*: 
