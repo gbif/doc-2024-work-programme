@@ -13,16 +13,16 @@ The expenses in the draft 2024 budget total 5.9 million euros, with nearly 5 mil
 
 [#figure-graph1]
 .Expected Secretariat expenses for Work Programme and Secretariat administration and governance
-image::img/wp-graphs-01.svg
+image::img/wp-graphs-01.svg[]
 
 The draft 2024 budget includes expenses for staff salaries, external contractors, and non-salary expenses for meetings and travel. This total reflects expenditures from both core and supplementary funds. Supplementary funds enable 50 per cent more total WP activities. Two thirds of the 2024 expenses are staff salaries (<<figure-graph2>>).
 
 [#figure-graph2]
 .Expected breakdown of Work Programme expenses
-image::img/wp-graphs-02.svg
+image::img/wp-graphs-02.svg[]
 
 All four Priority Area budgets include costs for staff salary, external contracts, and non-salary expenses such as meetings and travel. The largest expense in all Priority Areas is staff salary. The expected of WP expenses are highest for <<priority2,Priority Area 2>> and <<priority 3,Priority Area 3>> (<<figure-graph3,Figure 3>>).
 
 [#figure-graph3]
 .Work Programme 2024 expense breakdown across the four Priority Areas
-image::img/wp-graphs-03.svg
+image::img/wp-graphs-03.svg[]
