@@ -35,6 +35,7 @@
 ==== Indicative tasks for 2024
 
 * Consolidate formal partnerships with key agencies to support GBIF’s relevance to the SDGs, in particular with regard to human health, food security and climate change
+* Organize a joint meeting with the Ocean Biodiversity Information System (OBIS) to advance work on a marine biodiversity data strategy based on 2023 discussions
 -	Scope and commission an initial Environment, Social and Governance (ESG) report relating to GBIF’s operations policies, including but not restricted to gender/diversity guidelines, carbon and environmental footprints, and diversity and inclusion
 
 *** *Expected funding mechanisms and sources*: salaried staff; external contracts; non-salary expenses; core funds; possible supplementary funds.
