@@ -68,7 +68,7 @@ NOTE: The proposed change to Activity 3.1 (previously "Making the business case 
 * Maintain and consolidate the regional support teams to complement and supplement the work of national nodes, and scope development of regional-level node support through associate partners
 * Organize an in-person engagement event with the regional support team to strengthen participation in underrepresented parts of the Europe and Central Asia region (e.g. Central Asia, Caucasus, Balkans, Baltics)
 
-** *Expected funding mechanisms and sources*: salaried staff apart from: external contracts for regional support teams (core funds, supplementary funding from https://www.gbif.org/country/NO/participation[Norway^] and https://www.gbif.org/country/FI/participation[Finland^] for Priority Area 3 Special Purpose Fund, https://international-partnerships.ec.europa.eu/index_en[European Commission Directorate-General for International Partnerships^] through the BID programme).
+** *Expected funding mechanisms and sources*: salaried staff apart from: external contracts for regional support teams (core funds, supplementary funding from https://www.gbif.org/country/NO/participation[Norway^] and https://www.gbif.org/country/FI/participation[Finland^] for Priority Area 3 Special Purpose Fund, https://international-partnerships.ec.europa.eu/index_en[European Commission Directorate-General for International Partnerships^] through the BID programme); ECA regional engagement meeting costs (supplementary funds from Priority Area 3 Special Purpose Fund).
 
 [[activity3-4]]
 === Activity 3.4: Develop capacity and skills
@@ -84,4 +84,4 @@ NOTE: The proposed change to Activity 3.1 (previously "Making the business case 
 * Reevaluate the impact of the GBIF [Capacity Enhancement Support Programme^] (CESP) and develop recommendations for improvements
 * Update materials within GBIF training courses aligned with the new data model, adding new materials and use cases as appropriate
 
-** *Expected funding mechanisms and sources*: salaried staff; external contracts; non-salary costs; core funding; https://international-partnerships.ec.europa.eu/index_en[European Commission Directorate-General for International Partnerships^] (BID).
+** *Expected funding mechanisms and sources*: salaried staff apart from: external contracts and BID regional meeting costs (supplementary funding from  https://international-partnerships.ec.europa.eu/index_en[European Commission Directorate-General for International Partnerships^] ) .
