@@ -30,7 +30,7 @@ NOTE: The proposed change to Activity 3.1 (previously "Making the business case 
 * Capture and communicate the value of work carried out by GBIF volunteers (mentors, trainers, translators, ambassadors and other unpaid roles) and report to national nodes and delegations on the value of uncharged work from volunteers in their countries
 * Develop branding, launch and promote use of the ‘derived dataset’ tool to support and encourage more accurate citations and provide data publishers with more precise reporting on uses of their data in research and policy
 
-** *Expected funding mechanisms and sources*: salaried staff apart from: external contracts for videos and other communication materials (cord funding).
+** *Expected funding mechanisms and sources*: salaried staff apart from: external contracts for videos and other communication materials (core funding).
 
 [[activity3-2]]
 === Activity 3.2: Support and strengthen GBIF nodes
