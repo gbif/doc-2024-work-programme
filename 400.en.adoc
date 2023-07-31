@@ -20,7 +20,7 @@
 *	Plan capacity and hardware procurement to accommodate growth in volume and use of data 
 *	Provide environments for development and network-wide testing, particularly related to indexing under revised data standards
 
-** *Expected funding mechanisms and sources*: salaried staff; external contracts; core funding.
+** *Expected funding mechanisms and sources*: salaried staff apart from: external contracts for Checklistbank work, consultant for Kubernetes platform training, costs of hardware procurement (core funding). 
 
 [[activity4-2]]
 === Activity 4.2: Enhance support services for data publishers and users
@@ -40,7 +40,7 @@
 ** Revising the documentation on record-quality requirements, including occurrence id stability, and use of standardized values, including vocabularies
 ** Consolidating and expanding the technical documentation
 
-** *Expected funding mechanisms and sources*: salaried staff; external contracts; core funding; supplementary funds `including special purpose fund`.
+** *Expected funding mechanisms and sources*: salaried staff apart from: costs of ticketing system (core funding). 
 
 [[activity4-3]]
 === Activity 4.3: Enhance features and capabilities of the GBIF infrastructure
@@ -65,7 +65,7 @@
 ** Maturing the workflows that ensure stable GBIF occurrence identifiers and improving communication about identified issues and solutions
 * Explore alternative platforms and methods for integrating and managing information from literature tracking
 
-** *Expected funding mechanisms and sources*: salaried staff; core funding; external contracts; supplementary funds: https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en[Horizon Europe^] (B-Cubed).
+** *Expected funding mechanisms and sources*: salaried staff apart from: external contract for UI contractor (core funding); external contract to support GRSciColl integration (core funding); travel to support development of data cube format for B-cubed project (supplementary funds from  https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en[Horizon Europe^] ).
 
 [[activity4-4]]
 === Activity 4.4: Drive data standards development
@@ -84,4 +84,4 @@
 * Encourage growth of the community of vocabulary editors accelerate the collection of community-curated vocabularies
 * Complete the migration of content and associated code to use the vocabulary-server for all controlled terms
 
-** *Expected funding mechanisms and sources*: salaried staff; core funding; external contract; supplementary funding.
+** *Expected funding mechanisms and sources*: salaried staff apart from: external contract to support further development of the unified data model (core funding) 
