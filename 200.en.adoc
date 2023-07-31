@@ -21,7 +21,7 @@
 *	Consolidate GBIF’s position as a service provider for https://www.thegef.org/partners/gef-agencies[implementing agencies^] of the https://www.thegef.org/[Global Environment Fund^] (GEF)
 *	Improve GBIF connections and explore partnerships with other biodiversity-related conventions, such as the https://www.cms.int/[Convention on Migratory Species^] (CMS), the https://cites.org/[Convention on International Trade in Endangered Species of Wild Fauna and Fauna^] (CITES) and https://www.ramsar.org/[Ramsar Convention on Wetlands^], including through better coordination between GBIF nodes and national focal points
 
-*** *Expected funding mechanisms and sources*: salaried staff; external contracts; non-salary expenses; core budget; supplementary funds: https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en[Horizon Europe^] (B-Cubed); https://international-partnerships.ec.europa.eu/index_en[European Commission Directorate-General for International Partnerships^] (BID).
+*** *Expected funding mechanisms and sources*: salaried staff apart from: travel to relevant meetings including COP16 (core funds); travel to workshops relating to data cube delivery (supplementary funds: https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en[Horizon Europe^] B-Cubed project); workshops and travel related to the BID programme (supplementary funds: https://international-partnerships.ec.europa.eu/index_en[European Commission Directorate-General for International Partnerships^] ).
 
 [[activity2-2]]
 === Activity 2.2: Support the 2030 Agenda for Sustainable Development
