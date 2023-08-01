@@ -37,7 +37,7 @@
 * Support content curation on GRSciColl and coordinate editor and user communities as well as data import and synchronisation processes
 * Upgrade documentation by
 ** Enhancing the understanding of data quality through consistent, accessible documentation of all related processes, tools and information products
-** Revising the documentation on record-quality requirements, including occurrence id stability, and use of standardized values, including vocabularies
+** Revising the documentation on record-quality requirements, including occurrence identifier stability, and use of standardized values, including vocabularies
 ** Consolidating and expanding the technical documentation
 
 ** *Expected funding mechanisms and sources*: salaried staff apart from: costs of ticketing system (core funding). 
