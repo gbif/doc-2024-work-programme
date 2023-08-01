@@ -16,7 +16,7 @@ NOTE: The proposed change to Activity 3.1 (previously "Making the business case 
 
 ==== Indicative tasks for 2024
 
-* Update the https://doi.org/10.15468/doc-6yp9-9885[GBIF Communications Strategy^], revising and revisiting key audiences and messages to account for changes and developments its publication in 2015
+* Update the https://doi.org/10.15468/doc-6yp9-9885[GBIF Communications Strategy^], revising and revisiting key audiences and messages to account for changes and developments since its publication in 2015
 * Refresh messaging and materials across GBIF communication platforms to reflect and update key components of GBIF’s value to the network’s Participants, publishers, partners and stakeholders, including:
 ** GBIF’s value to science, research and innovation, particularly in the priority thematic areas identified under Activity 1.1
 ** GBIF’s role in supporting implementation and monitoring of the GBF and other biodiversity-related conventions
