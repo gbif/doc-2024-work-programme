@@ -3,7 +3,8 @@
 
 This draft budget offers a broad, preliminary overview of expected GBIF income and expenses in 2024. It includes funds for Work Programme activities as well as Secretariat administration and governance, and it delineates funding from basic financial contributions (core) and supplementary funds.
 
-The Secretariat welcomes supplementary contributions from Participants to Special Purpose Funds (SPF) aligned to each Priority Area. We encourage Participants to develop and fund specific indicative tasks to accelerate meeting the broader GBIF priorities in WP24.
+The WP24 budget includes supplementary contributions from Participants to Special Purpose Funds (SPF) aligned to each Priority Area. We encourage Participants who are able to commit funds beyond the basic financial contribution, to consider contributing to a Special Purpose Fund and accelerate GBIF’s work in one or more of our Priority Areas.
+
 
 === Work Programme 2024
 
@@ -21,7 +22,7 @@ The draft 2024 budget includes expenses for staff salaries, external contractors
 .Expected breakdown of Work Programme expenses.
 image::img/wp-graphs-02.svg[alt=Work Programme expenses,width=600,height=350,align="center"]
 
-All four Priority Area budgets include costs for staff salary, external contracts, and non-salary expenses such as meetings and travel. The largest expense in all Priority Areas is staff salary. The expected of WP expenses are highest for <<priority2,Priority Area 2>> and <<priority 3,Priority Area 3>> (<<figure-graph3,Figure 3>>).
+All four Priority Area budgets include costs for staff salary, external contracts, and non-salary expenses such as meetings and travel. The largest expense in all Priority Areas is staff salary. The expected of WP expenses are highest for <<priority3,Priority Area 3>> and <<priority 4,Priority Area 4>> (<<figure-graph3,Figure 3>>).
 
 [#figure-graph3]
 .Work Programme 2024 expense breakdown across the four Priority Areas.
