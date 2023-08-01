@@ -48,6 +48,7 @@ NOTE: The proposed change to Activity 3.1 (previously "Making the business case 
 ** Further development of the nodes training curriculum
 ** Review of the capacity self-assessment tool for Participant nodes
 ** Guidelines on applying the CARE principles on indigenous data governance, following 2023 consultation
+** Guidelines on national approaches to handling sensitive species data, following 2023 analysis 
 * Consolidate and improve Technical Support Hour for Nodes as a forum for community exchange and interaction, peer-to-peer training and problem-solving
 * Develop materials on the new data model for nodes to reuse and repurpose in engaging data holders
 * In consultation with nodes, explore opportunities to enable secondments and work exchange within the GBIF network
