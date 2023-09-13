@@ -1,23 +1,6 @@
 [[introduction]]
-== Introduction to consultation draft
+== Introduction 
 
-The intention of this draft is to solicit the GBIF community's feedback on initial proposals for the Work Programme activities that the Secretariat will support and prioritize during 2024. The resulting document should be read as an update to the https://doi.org/10.35035/doc-cvcq-rs47[2023 Work Programme^] and the second year of implementing the strategic priorities outlined in the https://doi.org/10.35035/doc-0kkq-0t82[2023-2027 GBIF Strategic Framework^].
-
-As described in the previous work programme, the approach of the implementation plan is to address the strategic priorities through several multi-year activities, each with projected outcomes over the five years. As this document is drafted just over halfway through the first year of implementation, the identification of tasks for 2024 is necessarily tentative and based on current projections for the progress of the indicative tasks agreed for 2023. 
-
-Through this consultation draft, we will gather responses on the specific new tasks, emphasising year-on-year continuity. Based on the feedback received, the Secretariat will consolidate this draft into the Work Programme presented to the Governing Board for approval at the https://gb30.gbif.org/[GB30^] meeting in October 2023.
-
-Please note that the final draft presented for approval at GB30 will also restore the list of ongoing tasks for each activity, which will not change greatly from 2023 (https://docs.gbif.org/2023-work-programme/en/#activity1-ongoing[example^]). 
-
-The draft does not set out detailed budget proposals for each activity and task, but it indicates which activities are expected to be carried out primarily by salaried staff, and which through external contracts and/or non-salary expenses. For contracts and expenses, it further indicates whether costs would be met from core funds or from supplementary funds, identifying where possible the funding source. 
-
-The <<budget,indicative budget for 2024>> highlights expected income and expenses from Basic Financial Contributions (or Core) and Supplementary Funds. It also provides estimated expenses for the work programme, administration/governance and each priority area.
-
-The Secretariat welcomes supplementary contributions from Participants to Special Purpose Funds (SPF) aligned to each Priority Area. Such funds enable us to go further and move faster towards GBIF's objectives, as shown with the example of Norway and Finland whose willingness to commit additional funds to the 2023 budget through a Special Purpose Fund for Priority Area 3 has enabled us to recruit a new regional support team for Europe and Central Asia.  We encourage Participants who are able to commit funds beyond the basic financial contribution, to consider contributing to a Special Purpose Fund and accelerate GBIF's work in one or more of our Priority Areas.
-
-Finally, in a departure from the practice in the previous strategic planning period, we have decoupled the process of soliciting and publishing details of the activities of GBIF nodes from the Work Programme drafting and consultation process. We do not intend for this to weaken the connection between nodes plans and activities and the global Work Programme. On the contrary, we hope to strengthen the alignment by providing a more logical sequence and structure. Following approval of the annual global Work Programme by the Governing Board, we will invite nodes to submit plans aligned with WP24 for inclusion in the annual Nodes Strategy. Reports on the previous year will then provide an input into the activities detailed in the updated annual report. 
-
-I look forward to receiving your feedback to this draft, which will help us build on the momentum of 2023 and further advance GBIF’s progress towards the ambitious goals outlined in the Strategic Framework.
 
 *Joe Miller*
 Executive Secretary
