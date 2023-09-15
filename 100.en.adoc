@@ -41,6 +41,7 @@
 * Promote best practices in data citation using digital object identifiers (DOIs), through outreach to researchers and journal publishers
 * Highlight and illustrate uses of GBIF-mediated data across scientific disciplines and thematic areas through GBIF.org and the annual https://www.gbif.org/science-review[Science Review^]
 * Continue engagement with thematic communities prioritized in previous Work Programme (soil and freshwater); keep priority thematic relevance areas under regular review, based on outcomes achieved and on advice of the Science Committee and expert groups convened for this purpose
+* Capture needs and suggestions from research communities regarding the development of the GBIF data model
 * Ensure presence of GBIF representatives—including through Secretariat and node staff, regional contractors and Open Biodiversity Data Ambassadors—at relevant scientific conferences with appropriate communication materials, presentations and training workshops
 * Run annual competitions through the https://www.gbif.org/article/1G82GL7jw08kS0g6k6MuSa/[Ebbe Nielsen Challenge^] and https://www.gbif.org/article/44SftFORi0A6mwGK4sgAKW/[Young Researchers Awards^]
 *	Work with partners to maintain and improve support for academic programmes in use of open biodiversity data
