@@ -54,7 +54,7 @@
 ==== Indicative tasks for 2024
 
 * Align interfaces, functionality and software used in GBIF.org, hosted portals, the shared data pipeline project and the Living Atlases 
-* Improve ability for users to filter based on content types, including citizen science, eDNA and business sector
+* Improve ability for users to filter based on categories of dataset origins, including citizen science, eDNA and the business sector
 * Advance capabilities for event-based search, based on prototype co-developed with the Atlas of Living Australia, and explore support for the forthcoming Humboldt extension on species inventories (see also activities 1.2 and 4.4)
 * Implement a material catalogue to capture specimen information exposed in the new data model
 * Enrich GRSciColl through integration of collection description information, compatible with the Latimer Core schema, to support use cases, including priority-setting for data mobilization and digitization
