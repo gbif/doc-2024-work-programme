@@ -12,7 +12,7 @@
 
 ==== Indicative tasks for 2024
 
-* Retire the internal GBIF checklist database replace it with https://www.checklistbank.org/[ChecklistBank^], and deploy corresponding updates to public GBIF APIs
+* Retire the internal GBIF checklist database and replace it with https://www.checklistbank.org/[ChecklistBank^], and deploy corresponding updates to public GBIF APIs
 *	Maintain deployments of hosted portals and hosted data repositories (IPTs) 
 *	Maintain GBIF R (https://www.gbif.org/tool/81747/[rgbif^]) and Python (https://www.gbif.org/tool/OlyoYyRbKCSCkMKIi4oIT/[pygbif^]) libraries to follow changes in GBIF public interfaces and support outcomes, including eDNA engagement activities
 *	Mature deployment and operation of software on the Kubernetes technology platform 
@@ -32,7 +32,7 @@
 
 ==== Indicative tasks for 2024
 
-* Establish ticketing system to manage, prioritize and monitor help desk support 
+* Establish a ticketing system to manage, prioritize and monitor help desk support 
 * Replace the GBIF Backbone Taxonomy with the extended release of the Catalogue of Life Checklist, produced using ChecklistBank
 * Support content curation on GRSciColl and coordinate editor and user communities as well as data import and synchronisation processes
 * Upgrade documentation by
@@ -55,7 +55,7 @@
 
 * Align interfaces, functionality and software used in GBIF.org, hosted portals, the shared data pipeline project and the Living Atlases 
 * Improve ability for users to filter based on content types, including citizen science, eDNA and business sector
-* Advance capabilities for event-based search based on prototype co-developed with the Atlas of Living Australia, and explore support for the forthcoming Humboldt extension on species inventories (see also activities 1.2 and 4.4)
+* Advance capabilities for event-based search, based on prototype co-developed with the Atlas of Living Australia, and explore support for the forthcoming Humboldt extension on species inventories (see also activities 1.2 and 4.4)
 * Implement a material catalogue to capture specimen information exposed in the new data model
 * Enrich GRSciColl through integration of collection description information, compatible with the Latimer Core schema, to support use cases, including priority-setting for data mobilization and digitization
 * Develop new data download formats that offer configurable summaries of occurrence data 
@@ -81,7 +81,7 @@
 * Refine and test data publishing models for specimen data with community members
 * Develop publishing models for monitoring data (abundance and absence) and structured events around targets to improve support of inventory data using the Humboldt extension (see also activities 1.2 and 4.3)
 * Advance data models for interaction data
-* Encourage growth of the community of vocabulary editors accelerate the collection of community-curated vocabularies
+* Encourage growth of the community of vocabulary editors to accelerate the collection of community-curated vocabularies
 * Complete the migration of content and associated code to use the vocabulary-server for all controlled terms
 
 ** *Expected funding mechanisms and sources*: salaried staff apart from: external contract to support further development of the unified data model (core funding) 
