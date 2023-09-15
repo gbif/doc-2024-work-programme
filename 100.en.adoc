@@ -37,12 +37,12 @@
 [[activity1-ongoing]]
 === Ongoing activities to support science and research
 
-* Maintain GBIF’s literature tracking programme to document and communicate the use of GBIF-mediated data in research 
+* Maintain GBIF’s literature tracking programme to document and communicate the use of GBIF-mediated data in research (€10,000 from core funding for DataCite fee)
 * Promote best practices in data citation using digital object identifiers (DOIs), through outreach to researchers and journal publishers
 * Highlight and illustrate uses of GBIF-mediated data across scientific disciplines and thematic areas through GBIF.org and the annual https://www.gbif.org/science-review[Science Review^]
 * Continue engagement with thematic communities prioritized in previous Work Programme (soil and freshwater); keep priority thematic relevance areas under regular review, based on outcomes achieved and on advice of the Science Committee and expert groups convened for this purpose
 * Capture needs and suggestions from research communities regarding the development of the GBIF data model
 * Ensure presence of GBIF representatives—including through Secretariat and node staff, regional contractors and Open Biodiversity Data Ambassadors—at relevant scientific conferences with appropriate communication materials, presentations and training workshops
-* Run annual competitions through the https://www.gbif.org/article/1G82GL7jw08kS0g6k6MuSa/[Ebbe Nielsen Challenge^] and https://www.gbif.org/article/44SftFORi0A6mwGK4sgAKW/[Young Researchers Awards^]
+* Run annual competitions through the https://www.gbif.org/article/1G82GL7jw08kS0g6k6MuSa/[Ebbe Nielsen Challenge^] and https://www.gbif.org/article/44SftFORi0A6mwGK4sgAKW/[Graduate Researchers Awards^](€20,000 from core funding in 2024)
 *	Work with partners to maintain and improve support for academic programmes in use of open biodiversity data
 *	Keep GBIF’s compliance with FAIR principles for scientific data management and stewardship under continuous review, with appropriate communication and certification for relevant projects and processes 
