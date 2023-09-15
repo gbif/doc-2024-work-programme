@@ -20,7 +20,7 @@
 *	Plan capacity and hardware procurement to accommodate growth in volume and use of data 
 *	Provide environments for development and network-wide testing, particularly related to indexing under revised data standards
 
-** *Expected funding mechanisms and sources*: salaried staff apart from: external contracts for Checklistbank work, consultant for Kubernetes platform training, costs of hardware procurement (core funding). 
+** *Expected funding mechanisms and sources*: salaried staff apart from: payment for Kubernetes platform training (€20,000 core funding), costs of hardware procurement (€100,000 core funding). 
 
 [[activity4-2]]
 === Activity 4.2: Enhance support services for data publishers and users
@@ -40,7 +40,7 @@
 ** Revising the documentation on record-quality requirements, including occurrence identifier stability, and use of standardized values, including vocabularies
 ** Consolidating and expanding the technical documentation
 
-** *Expected funding mechanisms and sources*: salaried staff apart from: costs of ticketing system (core funding). 
+** *Expected funding mechanisms and sources*: salaried staff apart from: contractor to support ChecklistBank (core funding) costs of ticketing system (€20,000 core funding). 
 
 [[activity4-3]]
 === Activity 4.3: Enhance features and capabilities of the GBIF infrastructure
@@ -88,7 +88,7 @@
 
 [[activity4-ongoing]]
 === Ongoing activities to support infrastructure and data products
-
+* Combined cost of contractors across priority area 4: €287,000 from core funds  
 * Software maintenance (upgrades, bug fixes, capture and handling of change requests, added functionality) and user support (IPT, https://www.gbif.org/hosted-portals[hosted portals^], GBIF.org, GRSciColl, registry, ChecklistBank and taxonomic backbone builds)
 * Hardware maintenance (purchases, installation, supervision/monitoring, optimization, operation planning, screening of future needs)
 * Infrastructure upgrades to the latest possible versions of widely used frameworks and cluster technology (web services stack, search engines, distributed data platforms)
