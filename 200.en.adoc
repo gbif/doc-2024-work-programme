@@ -76,7 +76,7 @@ NOTE: The proposed changes to the wording of this activity, which previously ref
 *** *Expected funding mechanisms and sources*: Salaried staff apart from: external contract to coordinate Data4Nature initiative (€45,000 core funds), meeting costs for forum (€45,000 core funds, potential supplementary funds from Data4Nature partners)
 
 [[activity2-ongoing]]
-==== Ongoing activities to support policy and partnerships
+=== Ongoing activities to support policy and partnerships
 
 * Attend CBD meetings and engagement in consultations and working groups as an observer inter-governmental organization
 * Attend IPBES plenary meetings and actively engage in the IPBES Task Force on Data and Knowledge, as well as the IPBES Task Force on Capacity Building, in GBIF’s role as an IPBES strategic partner
