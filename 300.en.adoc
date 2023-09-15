@@ -27,7 +27,7 @@ NOTE: The proposed change to Activity 3.1 (previously "Making the business case 
 ** GBIF’s record in managing effective capacity enhancement programmes that produce concrete results in mobilizing data demonstrating onward use through research citations, and documenting policy applications
 * Prepare a second series of animated videos on additional areas of GBIF relevance aligned with priority thematic campaigns
 * Produce an annual report summarizing progress toward implementing the new strategic framework in 2023
-* Capture and communicate the value of work carried out by GBIF volunteers (mentors, trainers, translators, ambassadors and other unpaid roles) and report to national nodes and delegations on the value of uncharged work from volunteers in their countries
+* Capture and communicate the value of work carried out by GBIF volunteers (mentors, trainers, translators, ambassadors and other voluntary roles) and report to national nodes and delegations on the value of uncharged work from volunteers in their countries
 * Develop branding, launch and promote use of the ‘derived dataset’ tool to support and encourage more accurate citations and provide data publishers with more precise reporting on uses of their data in research and policy
 
 ** *Expected funding mechanisms and sources*: salaried staff apart from: external contracts for videos and other communication materials (€25,000 core funding).
