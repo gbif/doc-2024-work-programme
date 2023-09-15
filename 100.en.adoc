@@ -13,12 +13,12 @@
 
 ==== Indicative tasks for 2024
 
-*	Commission an update to the systematic review of GBIF use in research (https://doi.org/10.1073/pnas.2018093118[Heberling et al. 2021^]) to identify trends in research uses for the 2020-2024 periods, deepen the analysis of methods and analytical approaches, and inform future support for priority thematic areas of relevance
-* Advance collaborative activities across new thematic areas of relevance based on recommendations from the Science Committee (currently identified as invasive alien species and agrobiodiversity) with support of identified experts in these areas
+*	Commission an update to the systematic review of GBIF use in research (https://doi.org/10.1073/pnas.2018093118[Heberling et al. 2021^]) to identify trends in research uses for the 2020-2024 periods, deepen the analysis of methods and analytical approaches, and inform future support for priority thematic areas of relevance 
+* Advance collaborative activities across new thematic areas of relevance based on recommendations from the Science Committee, including establishing a task group on invasive alien species and engaging experts in agrobiodiversity
 * Strengthen and expand support and guidance on mobilizing DNA-derived data from a range of data holder types and scales, supported by data quality improvements, improved coverage of DNA-detected organisms in the GBIF taxonomic backbone, and alignment of guidance with the new GBIF data model
 * Expand data flows relating to vectors of human disease, in particular malaria-related data through GBIF partnership in the https://www.gatesfoundation.org/about/committed-grants/2022/04/inv021972[Vector Atlas^] project, with additional data streams on non-malaria vectors as recommended by the https://www.gbif.org/news/4jj1iKMn5llVnM6cUr8Y2m/[GBIF task group on vectors of human diseases^]
 
-*** *Expected funding mechanisms and sources*: Salaried staff time apart from: external contract for systematic review update (core funds); possible external contracts for new thematic areas of relevance (core funds, possible supplementary funds); contract for expanding data flows on human disease vectors (supplementary funds: https://www.gatesfoundation.org/[Bill & Melinda Gates Foundation^] through the Vector Atlas project)
+*** *Expected funding mechanisms and sources*: Salaried staff time apart from: external contract for systematic review update (€20,000 core funds); external contracts for new thematic areas of relevance (€20,000 core funds, possible supplementary funds); contract for expanding data flows on human disease vectors (supplementary funds: https://www.gatesfoundation.org/[Bill & Melinda Gates Foundation^] through the Vector Atlas project)
 
 [[activity1-2]]
 === Activity 1.2: Advance GBIF’s contribution to latest biodiversity modelling approaches
@@ -32,6 +32,16 @@
 * Consolidate prototype digital twins dependent on and coordinated by GBIF through partnership on https://biodt.eu/[BioDT^], support user-group testing of prototype twins and links to key biodiversity data infrastructures, and build connections between projects and initiatives through shared data and service dependencies (such as https://pureportal.inbo.be/en/projects/b-cubed-biodiversity-building-blocks-for-policy[B-Cubed^])
 * Improve GBIF’s capabilities to manage ecological data streams from key infrastructures and monitoring programmes, applying new data model to accommodate richer data (including absences based on complete species lists) while designing data flows and outputs in planned workshop on the https://www.tdwg.org/community/osr/humboldt-extension/[TDWG Humboldt Extension^]
 
-*** *Expected funding mechanisms and sources*: Salaried staff apart from: travel costs for Digital Twin activities (supplementary funds: https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en[Horizon Europe^] (BioDT); workshop costs for managing ecological data streams (core funds, supplementary funds expected from https://www.birds.cornell.edu/home/[Cornell Lab for Ornithology^] ) 
+*** *Expected funding mechanisms and sources*: Salaried staff apart from: travel costs for Digital Twin activities (supplementary funds: https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en[Horizon Europe^] (BioDT); workshop costs for managing ecological data streams (€20,000 core funds, possible supplementary funds from https://www.birds.cornell.edu/home/[Cornell Lab for Ornithology^] ) 
 
-NOTE: Based on progress in 2023, The Secretariat proposes to conclude *Activity 1.3: Support open science principles* as a separate activity within <<priority1,Priority Area 1>>. Key milestones have been achieved through the recognition of GBIF as a Global Core Biodata Resource and the inclusion of GBIF in the list of core data infrastructures supporting the https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en[UNESCO Open Science Recommendation^]. Follow-up on related tasks, such as engagement with UNESCO, OECD and implementation of CARE principles, will be redistributed under <<priority2>> and <<priority3>>. 
+[[activity1-ongoing]]
+=== Ongoing activities to support science and research
+
+* Maintain GBIF’s literature tracking programme to document and communicate the use of GBIF-mediated data in research 
+* Promote best practices in data citation using digital object identifiers (DOIs), through outreach to researchers and journal publishers
+* Highlight and illustrate uses of GBIF-mediated data across scientific disciplines and thematic areas through GBIF.org and the annual https://www.gbif.org/science-review[Science Review^]
+* Continue engagement with thematic communities prioritized in previous Work Programme (soil and freshwater); keep priority thematic relevance areas under regular review, based on outcomes achieved and on advice of the Science Committee and expert groups convened for this purpose
+* Ensure presence of GBIF representatives—including through Secretariat and node staff, regional contractors and Open Biodiversity Data Ambassadors—at relevant scientific conferences with appropriate communication materials, presentations and training workshops
+* Run annual competitions through the https://www.gbif.org/article/1G82GL7jw08kS0g6k6MuSa/[Ebbe Nielsen Challenge^] and https://www.gbif.org/article/44SftFORi0A6mwGK4sgAKW/[Young Researchers Awards^]
+*	Work with partners to maintain and improve support for academic programmes in use of open biodiversity data
+*	Keep GBIF’s compliance with FAIR principles for scientific data management and stewardship under continuous review, with appropriate communication and certification for relevant projects and processes 
