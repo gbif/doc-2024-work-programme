@@ -30,7 +30,7 @@ NOTE: The proposed change to Activity 3.1 (previously "Making the business case 
 * Capture and communicate the value of work carried out by GBIF volunteers (mentors, trainers, translators, ambassadors and other unpaid roles) and report to national nodes and delegations on the value of uncharged work from volunteers in their countries
 * Develop branding, launch and promote use of the ‘derived dataset’ tool to support and encourage more accurate citations and provide data publishers with more precise reporting on uses of their data in research and policy
 
-** *Expected funding mechanisms and sources*: salaried staff apart from: external contracts for videos and other communication materials (core funding).
+** *Expected funding mechanisms and sources*: salaried staff apart from: external contracts for videos and other communication materials (€25,000 core funding).
 
 [[activity3-2]]
 === Activity 3.2: Support and strengthen GBIF nodes
@@ -49,12 +49,12 @@ NOTE: The proposed change to Activity 3.1 (previously "Making the business case 
 ** Review of the capacity self-assessment tool for Participant nodes
 ** Guidelines on applying the CARE principles on indigenous data governance, following 2023 consultation
 ** Guidelines on national approaches to handling sensitive species data, following 2023 analysis 
-* Consolidate and improve Technical Support Hour for Nodes as a forum for community exchange and interaction, peer-to-peer training and problem-solving
+* Following successful piloting in 2023, establish the  Technical Support Hour for Nodes as a permanent forum for community exchange and interaction, peer-to-peer training and problem-solving
 * Develop materials on the new data model for nodes to reuse and repurpose in engaging data holders
 * In consultation with nodes, explore opportunities to enable secondments and work exchange within the GBIF network
 * Develop a process for replicating the survey of national nodes to capture information on the value of national investment in the GBIF network
 
-** *Expected funding mechanisms and sources*: salaried staff.
+** *Expected funding mechanisms and sources*: salaried staff, apart from: support for pilot secondment programme (€40,000 core funding).
 
 [[activity3-3]]
 === Activity 3.3: Expand and strengthen national participation
@@ -70,7 +70,7 @@ NOTE: The proposed change to Activity 3.1 (previously "Making the business case 
 * Maintain and consolidate the regional support teams to complement and supplement the work of national nodes, and scope development of regional-level node support through associate partners
 * Organize an in-person engagement event with the regional support team to strengthen participation in underrepresented parts of the Europe and Central Asia region (e.g. Central Asia, Caucasus, Balkans, Baltics)
 
-** *Expected funding mechanisms and sources*: salaried staff apart from: external contracts for regional support teams (core funds, supplementary funding from https://www.gbif.org/country/NO/participation[Norway^] and https://www.gbif.org/country/FI/participation[Finland^] for Priority Area 3 Special Purpose Fund, https://international-partnerships.ec.europa.eu/index_en[European Commission Directorate-General for International Partnerships^] through the BID programme); ECA regional engagement meeting costs (supplementary funds from Priority Area 3 Special Purpose Fund).
+** *Expected funding mechanisms and sources*: salaried staff apart from: external contracts for regional support teams (€80,000 core funds for the Asia support team, supplementary funding from https://www.gbif.org/country/NO/participation[Norway^] and https://www.gbif.org/country/FI/participation[Finland^] for Priority Area 3 Special Purpose Fund, https://international-partnerships.ec.europa.eu/index_en[European Commission Directorate-General for International Partnerships^] through the BID programme); ECA regional engagement meeting costs (supplementary funds from Priority Area 3 Special Purpose Fund).
 
 [[activity3-4]]
 === Activity 3.4: Develop capacity and skills
@@ -82,8 +82,19 @@ NOTE: The proposed change to Activity 3.1 (previously "Making the business case 
 
 ==== Indicative tasks for 2024
 
-* Launch a continuation of the BID programme once contract is secured with DG-INTPA, explore additional funding sources, and organize regional meetings in target regions (co-located with regional nodes meetings, where possible) 
+* Launch a continuation of the BID programme once contract is secured with the European Commission Directorate-General for International Partnerships, explore additional funding sources, and organize regional meetings in target regions (co-located with regional nodes meetings, where possible) 
 * Reevaluate the impact of the GBIF https://www.gbif.org/programme/82219/[Capacity Enhancement Support Programme^] (CESP) and develop recommendations for improvements
 * Update materials within GBIF training courses aligned with the new data model, adding new materials and use cases as appropriate
 
 ** *Expected funding mechanisms and sources*: salaried staff apart from: external contracts and BID regional meeting costs (supplementary funding from  https://international-partnerships.ec.europa.eu/index_en[European Commission Directorate-General for International Partnerships^] ) .
+
+=== Ongoing activities to support community and capacity
+
+* Organize annual calls for projects under the https://www.gbif.org/programme/82219/[Capacity Enhancement Support Programme^] (CESP): €80,000 from core funds for 2024
+* Continue to support proposals for hosted portals, and to support the Living Atlases community including contribution towards the cost of a technical coordinator
+* Provide ongoing support for documentation, including formatting and translation capabilities
+* Operate effective communication channels that produce and disseminate news items and thematic content on GBIF.org and in social media, regular opt-in and publisher newsletters, and ongoing communications to the nodes
+* Continue cycle of biennial regional nodes meetings (€40,000 core funding to support 2024 meeting costs, other costs expected to be met from supplementary funds including BID)
+*	Organize events to engage GBIF Heads of Delegation and node managers attending other international meetings including through the CBD and IPBES
+* Coordinate work of volunteer mentors, ambassadors and regional support contractors 
+*	Support https://www.tdwg.org/[Biodiversity Information Standards^] (TDWG) community through financial and organizational contributions towards annual meetings
