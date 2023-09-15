@@ -18,7 +18,7 @@
 * Strengthen and expand support and guidance on mobilizing DNA-derived data from a range of data holder types and scales, supported by data quality improvements, improved coverage of DNA-detected organisms in the GBIF taxonomic backbone, and alignment of guidance with the new GBIF data model
 * Expand data flows relating to vectors of human disease, in particular malaria-related data through GBIF partnership in the https://www.gatesfoundation.org/about/committed-grants/2022/04/inv021972[Vector Atlas^] project, with additional data streams on non-malaria vectors as recommended by the https://www.gbif.org/news/4jj1iKMn5llVnM6cUr8Y2m/[GBIF task group on vectors of human diseases^]
 
-*** *Expected funding mechanisms and sources*: Salaried staff time apart from: external contract for systematic review update (€20,000 core funds); external contracts for new thematic areas of relevance (€20,000 core funds, possible supplementary funds); contract for expanding data flows on human disease vectors (supplementary funds: https://www.gatesfoundation.org/[Bill & Melinda Gates Foundation^] through the Vector Atlas project)
+*** *Expected funding mechanisms and sources*: Salaried staff time apart from: external contract for systematic review update (€20,000 core funds); external contracts for priority thematic areas of relevance (€20,000 core funds, possible supplementary funds); contract for expanding data flows on human disease vectors (supplementary funds: https://www.gatesfoundation.org/[Bill & Melinda Gates Foundation^] through the Vector Atlas project)
 
 [[activity1-2]]
 === Activity 1.2: Advance GBIF’s contribution to latest biodiversity modelling approaches
