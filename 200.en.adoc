@@ -73,7 +73,7 @@ NOTE: The proposed changes to the wording of this activity, which previously ref
 * Organize forum for MDBs and other potential Data4Nature partners to detail progress and encourage further participation at UN Biodiversity Conference (COP 16) or other relevant venue
 * Continue engagement with the Task Force on Nature-related Financial Disclosures (TNFD), in particular with regard to the recommendation of a global nature-related public data facility to support corporate reporting for the Global Biodiversity Framework
 
-*** *Expected funding mechanisms and sources*: Salaried staff apart from: external contract to coordinate Data4Nature initiative (€45,000 core funds), meeting costs for forum (€45,000 core funds, potential supplementary funds from Data4Nature partners)
+*** *Expected funding mechanisms and sources*: Salaried staff apart from: external contract to coordinate Data4Nature initiative (€45,000 core funds), meeting costs for forum (€40,000 core funds, potential supplementary funds from Data4Nature partners)
 
 [[activity2-ongoing]]
 === Ongoing activities to support policy and partnerships
