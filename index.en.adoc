@@ -1,10 +1,10 @@
-= DRAFT GBIF Work Programme 2024: Annual Update and Implementation Plan to the Strategic Framework 2023–2027
+= GBIF Work Programme 2024: Annual Update and Implementation Plan to the Strategic Framework 2023–2027
 GBIF Secretariat
 :toc: left
 :toclevels: 2
 :numbered:
-:revnumber: 0.2
-:revdate: 15 September 2023
+:revnumber: 1.0
+:revdate: 19 October 2023
 :title-logo-image: img/logo-gbif.svg
 :icons: font
 :pagenums:
