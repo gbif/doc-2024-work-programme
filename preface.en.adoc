@@ -1,16 +1,15 @@
 [[introduction]]
 == Introduction 
 
-This is the draft of the second annual GBIF Work Programme and annual update to Implementation Plan 2023–2027 (WP24), to be presented under the Strategic Framework for 2023-2027. The overall aim is to focus on the key outcomes that can be expected from GBIF’s work linking them to the four priority areas set out in the Strategic Framework.
+This is the second annual GBIF Work Programme and annual update to Implementation Plan 2023–2027 (WP24) presented under the https://doi.org/10.35035/doc-0kkq-0t82[Strategic Framework for 2023-2027^].
 
-The Work Programmes of the Implementation Plan 2023–2027 are less granular than in previous implementation plans, with an emphasis on what will be delivered and achieved, enabling the Governing Board to assess whether implementation is on track. Specific tasks, events or contracts are presented as indicative only, and the intention is to enable flexibility in the means of achieving the proposed outcomes, both within the Secretariat and through the collective efforts of GBIF’s nodes and partners.
-Each priority area contains up to four designated activities, as well as ongoing activities presenting work that continues across the five-year implementation plan. There has only been a slight change to the activity areas in 2024. One activity area has been closed and two have been reworded to better reflect the indicative tasks. 
-Some indicative tasks are the same as in 2023 because they require multi-year efforts to achieve the projected outcomes. Many new indicative tasks are presented in this work programme. Therefore, the activity areas and indicative tasks should be viewed through a five-year time frame as we work to achieve the overall mission of the 2023–2027 Strategic Framework.
-The 2024 GBIF budget funds the WP24, and is a separate document presented to the Governing Board. Many indicative tasks described in WP24 have activities, such as external contracts and workshops, funded from core funding. These expenses are noted in the WP24. Please see the cover note to the 2024 GBIF budget for an overview of how the Work Programme is funded, including the division of salary costs across the priority areas, and the details of income and spending of supplementary funds - that is, funds beyond the basic financial contributions from GBIF’s Voting Participants. As noted at the end of each activity section in this document, supplementary funds have increased the scope of the activities of WP24, and they are enabling GBIF to move further and faster towards our strategic objectives.
+The work programmes of the current implementation plan are less granular than previous ones, with an emphasis on what will be delivered and achieved to enable the https://www.gbif.org/governance#_the-gbif-governing-board[GBIF Governing Board^] to assess whether implementation is on track. Specific tasks, events or contracts are presented as indicative, with the intention of enabling flexibility in how proposed outcomes are achieved, both within the Secretariat and through the collective efforts of GBIF’s nodes and partners.
 
+Each priority area contains up to four designated activities, as well as ongoing activities presenting work that continues across the five-year implementation plan. Activity areas for 2024 include only slight changes, with one activity area having been closed and two having been reworded to better reflect the indicative tasks.
 
+Some indicative tasks persist in 2023 because they require multiyear efforts to achieve the projected outcomes, while many new indicative tasks appear in this work programme. Activity areas and indicative tasks should be viewed through a five-year time frame as we work to achieve the overall mission of the 2023–2027 Strategic Framework.
 
+The 2024 GBIF budget funds WP24 and is detailed in a separate document presented to the Governing Board. Many indicative tasks described in WP24 include activities, such as external contracts and workshops, that are funded through core funding. Such expenses are noted in WP24. `Please see the cover note to the 2024 GBIF budget for an overview of how the Work Programme is funded, including the division of salary costs across the priority areas, and the details of income and spending of supplementary funds - that is, funds beyond the basic financial contributions from GBIF’s Voting Participants.` As noted at the end of each activity section in this document, supplementary funds have increased the scope of the activities of WP24, and they are enabling GBIF to move further and faster towards our strategic objectives.
 
-
-*Joe Miller*
-Executive Secretary
+https://orcid.org/0000-0002-5788-9010[**Joe Miller**^]
+Executive Secretary, GBIF
