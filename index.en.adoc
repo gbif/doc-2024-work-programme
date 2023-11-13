@@ -27,3 +27,5 @@ include::300.en.adoc[]
 include::400.en.adoc[]
 
 include::colophon.en.adoc[]
+
+include::license.adoc[]
