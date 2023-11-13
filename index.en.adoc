@@ -1,5 +1,4 @@
 = GBIF Work Programme 2024: Annual Update and Implementation Plan to the Strategic Framework 2023–2027
-GBIF Secretariat
 :toc: left
 :toclevels: 2
 :numbered:
