@@ -1,10 +1,7 @@
-https://docs.gbif.org/documentation-guidelines/[image:https://docs.gbif.org/documentation-guidelines/gbif-document-shield.svg[GBIF Document]]
-// DOI badge: If you have a DOI, remove the comment ("// ") from the line below, change "10.EXAMPLE/EXAMPLE" to the DOI in all three places, and remove this line.
-// https://doi.org/10.EXAMPLE/EXAMPLE[image:https://zenodo.org/badge/DOI/10.EXAMPLE/EXAMPLE.svg[doi:10.EXAMPLE/EXAMPLE]]
-// License badge
-https://creativecommons.org/licenses/by-sa/4.0/[image:https://img.shields.io/badge/License-CC%20BY%2D-SA%204.0-lightgrey.svg[CC BY-SA 4.0]]
-// Build status badge: In the text below, please update "doc-template" to "doc-your-document-name", and remove this line.
-https://builds.gbif.org/job/doc-template/lastBuild/console[image:https://builds.gbif.org/job/doc-template/badge/icon[Build status]]
+https://docs.gbif.org/2024-work-programme/en/[image:https://docs.gbif.org/documentation-guidelines/gbif-document-shield.svg[GBIF Work Programme 2024]]
+https://doi.org/10.35035/doc-b226-sb32[image:https://zenodo.org/badge/DOI/10.35035/doc-b226-sb32.svg[doi:10.35035/doc-b226-sb32]]
+https://creativecommons.org/publicdomain/zero/1.0/[image:https://img.shields.io/badge/Deed-CC0-lightgrey.svg[CC0]]
+https://builds.gbif.org/job/doc-2024-work-programme/lastBuild/console[image:https://builds.gbif.org/job/doc-2024-work-programme/badge/icon[Build status]]
 
 = GBIF 2024 Work Programme 
 
