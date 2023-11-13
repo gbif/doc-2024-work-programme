@@ -7,7 +7,7 @@
 :title-logo-image: img/logo-gbif.svg
 :icons: font
 :pagenums:
-:license: https://creativecommons.org/licenses/by-sa/4.0/
+:license: https://creativecommons.org/publicdomain/zero/1.0/
 :xrefstyle: short
 
 ifdef::backend-html5[]
@@ -27,5 +27,3 @@ include::300.en.adoc[]
 include::400.en.adoc[]
 
 include::colophon.en.adoc[]
-
-include::license.adoc[]
